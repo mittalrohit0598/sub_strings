@@ -1,1 +1,1 @@
-# sub_strings.rb
+# sub_strings
